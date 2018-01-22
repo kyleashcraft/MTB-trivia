@@ -35,7 +35,18 @@
         "my answer is {Answer}",
         "is it {Answer}",
         "{Answer} is my answer",
-        "{Answer}"
+        "{Answer}",
+        "I think it's {Answer}",
+        "I think {Answer}",
+        "Maybe {Answer}",
+        "Its got to be {Answer}",
+        "I don't know maybe {Answer}",
+        "I think maybe {Answer}",
+        "Maybe its {Answer}",
+        "Lets try {Answer}",
+        "I'm gunna guess {Answer}",
+        "I'm guessing {Answer}",
+        "Perhaps {Answer}"      
       ],
       "slots": [
         {
