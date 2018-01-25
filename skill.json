@@ -3,11 +3,11 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Sample Short Description",
+          "summary": "A trivia game focusing on Mountain Biking",
           "examplePhrases": [
-            "Alexa open reindeer trivia",
-            "Alexa tell reindeer trivia to start a game",
-            "Alexa tell reindeer trivia I want to play"
+            "Alexa open mountain bike trivia",
+            "Alexa tell mountain bike trivia to start a game",
+            "Alexa tell mountain bike trivia I want to play"
           ],
           "name": "reindeer trivia",
           "description": "Sample Full Description"
